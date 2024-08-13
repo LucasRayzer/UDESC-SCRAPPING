@@ -9,10 +9,10 @@ Este projeto visa analisar redes de coautoria no campus CEAVI da UDESC, utilizan
 * Graph_Final.py: Script principal que gera os grafos de coautoria a partir dos CSVs formatados e aplica as métricas de análise definidas no trabalho.
 
 ### Como Utilizar
-# 1. Pré-processamento dos CSVs:
+ 1. Pré-processamento dos CSVs:
 
 * Execute Converter.py para garantir que os CSVs estejam no formato adequado.
 * Execute Eliminate.py para limpar e ajustar quaisquer inconsistências nos dados.
-# 2. Geração e Análise dos Grafos:
+ 2. Geração e Análise dos Grafos:
 
 Após o pré-processamento, utilize Graph_Final.py para gerar os grafos e aplicar as métricas desejadas.
