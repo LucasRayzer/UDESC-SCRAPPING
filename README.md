@@ -2,16 +2,16 @@
 Este projeto visa analisar redes de coautoria no campus CEAVI da UDESC, utilizando dados extraídos da plataforma Lattes. O processo envolve a manipulação de arquivos CSV para gerar grafos de colaboração e aplicar métricas relevantes.
 
 ### Estrutura do Projeto
-* Converter.py: Algoritmo responsável por converter arquivos CSV que não seguem a formatação esperada para o formato compatível com a geração de grafos.
+* Converter.py: Algoritmo que remove os espaços dos arquivos CSV que estão em tuplas e adiciona o padrão "", "" para formatar os dados corretamente.
 
-* Eliminate.py: Algoritmo que elimina ou ajusta dados inconsistentes nos CSVs, garantindo que estejam prontos para serem processados.
+* Eliminate.py: Algoritmo que elimina inconsistências nos CSVs após o pré-processamento realizado pelo Converter.py, garantindo que os dados estejam prontos para análise.
 
 * Graph_Final.py: Script principal que gera os grafos de coautoria a partir dos CSVs formatados e aplica as métricas de análise definidas no trabalho.
 
 ### Como Utilizar
  1. Pré-processamento dos CSVs:
 
-* Execute Converter.py para garantir que os CSVs estejam no formato adequado.
+* Execute Converter.py para garantir que os CSVs estejam no formato adequado, tirando das tuplas e separando .
 * Execute Eliminate.py para limpar e ajustar quaisquer inconsistências nos dados.
  2. Geração e Análise dos Grafos:
 
