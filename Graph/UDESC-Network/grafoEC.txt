@@ -1,0 +1,16 @@
+Vértices (Autores):
+""Angela Maria Blatt Ortiga"": 11 publicações
+""Eduardo Müller dos Santos"": 2 publicações
+""Gabriele Vanessa Tschöke"": 12 publicações
+""Helenne Jungblut Geissler"": 71 publicações
+""João Marcos Bosi Mendonça de Moura"": 26 publicações
+""Luciano André Deitos Koslowski"": 122 publicações
+""Michael Renê Mix Visintainer"": 14 publicações
+""Priscila Natasha Kinas"": 4 publicações
+""Rafael Pacheco dos Santos"": 6 publicações
+""Rogério Simões"": 12 publicações
+""Thiane Pereira Poncetta Coliboro"": 0 publicações
+""Tiago José Belli"": 26 publicações
+
+Arestas (Coautoria) e Pesos:
+""João Marcos Bosi Mendonça de Moura"" - ""Rogério Simões"": 1 coautorias

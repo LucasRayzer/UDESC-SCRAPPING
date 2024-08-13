@@ -31,7 +31,7 @@
 "Paulo Roberto Farah","FARAH, P. R.;FARAH, PAULO ROBERTO;ROBERTO FARAH, PAULO"
 "Priscila Natasha Kinas","KINAS, P. N."
 "Rafael Pacheco dos Santos","SANTOS, R. P."
-"Rodrigo Rengel","RENGEL, R.;RENGEL, RODRIGO"
+"Rodrigo Rengel","RENGEL, R. ;RENGEL, RODRIGO"
 "Rogério Simões","SIMÕES, R.;SIMÕES, ROGÉRIO"
 "Sergio Marian","MARIAN, S."
 "Thiane Pereira Poncetta Coliboro","COLIBORO, T. P. P."

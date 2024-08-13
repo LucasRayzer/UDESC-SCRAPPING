@@ -28,7 +28,7 @@ def process_content(content):
 
 
 #arquivo original
-file_original = 'C:/Users/11941578900/Downloads/Web/Web/scriptLattes/exemplo/teste-03/teste-03-publicacoesPorMembro.csv'
+file_original = 'teste-04-EC-publicacoesPorMembro.csv'
 
 #conteúdo do arquivo original
 with open(file_original, 'r', encoding='utf-8') as file:
@@ -36,7 +36,7 @@ with open(file_original, 'r', encoding='utf-8') as file:
 
 processed_content = process_content(content)
 
-processed_file_path = 'C:/Users/11941578900/Downloads/3242.csv'
+processed_file_path = 'EngenhariaCivilCurrículos.csv'
 
 with open(processed_file_path, 'w', encoding='utf-8') as file:
     for line in processed_content:

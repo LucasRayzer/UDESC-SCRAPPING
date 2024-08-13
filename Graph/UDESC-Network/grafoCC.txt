@@ -1,0 +1,48 @@
+Vértices (Autores):
+""Caroline Sulzbach Pletsch"": 83 publicações
+""Diego Rafael Stüpp"": 22 publicações
+""Dinorá Baldo de Faveri"": 45 publicações
+""Fernando Scheeffer"": 28 publicações
+""Ilda Valentim"": 16 publicações
+""Lara Fabiana Dallabona"": 152 publicações
+""Marilei Kroetz"": 52 publicações
+""Marines Lucia Boff"": 80 publicações
+""Marino Luiz Eyerkaufer"": 77 publicações
+""Paulo Roberto da Cunha"": 315 publicações
+""Rodrigo Rengel"": 81 publicações
+""Sergio Marian"": 26 publicações
+""Valkyrie Vieira Fabre"": 92 publicações
+""Vanderlei dos Santos"": 127 publicações
+
+Arestas (Coautoria) e Pesos:
+""Caroline Sulzbach Pletsch"" - ""Lara Fabiana Dallabona"": 8 coautorias
+""Caroline Sulzbach Pletsch"" - ""Paulo Roberto da Cunha"": 4 coautorias
+""Caroline Sulzbach Pletsch"" - ""Marines Lucia Boff"": 1 coautorias
+""Diego Rafael Stüpp"" - ""Valkyrie Vieira Fabre"": 4 coautorias
+""Diego Rafael Stüpp"" - ""Dinorá Baldo de Faveri"": 2 coautorias
+""Dinorá Baldo de Faveri"" - ""Ilda Valentim"": 2 coautorias
+""Dinorá Baldo de Faveri"" - ""Lara Fabiana Dallabona"": 2 coautorias
+""Dinorá Baldo de Faveri"" - ""Marilei Kroetz"": 4 coautorias
+""Dinorá Baldo de Faveri"" - ""Fernando Scheeffer"": 2 coautorias
+""Dinorá Baldo de Faveri"" - ""Paulo Roberto da Cunha"": 5 coautorias
+""Dinorá Baldo de Faveri"" - ""Vanderlei dos Santos"": 3 coautorias
+""Fernando Scheeffer"" - ""Valkyrie Vieira Fabre"": 6 coautorias
+""Fernando Scheeffer"" - ""Lara Fabiana Dallabona"": 4 coautorias
+""Fernando Scheeffer"" - ""Marilei Kroetz"": 2 coautorias
+""Ilda Valentim"" - ""Lara Fabiana Dallabona"": 1 coautorias
+""Ilda Valentim"" - ""Marilei Kroetz"": 2 coautorias
+""Ilda Valentim"" - ""Vanderlei dos Santos"": 1 coautorias
+""Lara Fabiana Dallabona"" - ""Valkyrie Vieira Fabre"": 12 coautorias
+""Lara Fabiana Dallabona"" - ""Marilei Kroetz"": 12 coautorias
+""Lara Fabiana Dallabona"" - ""Paulo Roberto da Cunha"": 3 coautorias
+""Lara Fabiana Dallabona"" - ""Marino Luiz Eyerkaufer"": 1 coautorias
+""Lara Fabiana Dallabona"" - ""Vanderlei dos Santos"": 1 coautorias
+""Marilei Kroetz"" - ""Valkyrie Vieira Fabre"": 6 coautorias
+""Marilei Kroetz"" - ""Marines Lucia Boff"": 1 coautorias
+""Marines Lucia Boff"" - ""Paulo Roberto da Cunha"": 4 coautorias
+""Marines Lucia Boff"" - ""Marino Luiz Eyerkaufer"": 3 coautorias
+""Marino Luiz Eyerkaufer"" - ""Rodrigo Rengel"": 12 coautorias
+""Marino Luiz Eyerkaufer"" - ""Valkyrie Vieira Fabre"": 7 coautorias
+""Marino Luiz Eyerkaufer"" - ""Sergio Marian"": 1 coautorias
+""Paulo Roberto da Cunha"" - ""Vanderlei dos Santos"": 16 coautorias
+""Sergio Marian"" - ""Valkyrie Vieira Fabre"": 1 coautorias
