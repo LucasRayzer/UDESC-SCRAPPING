@@ -28,7 +28,7 @@ def process_content(content):
 
 
 #arquivo original
-file_original = 'teste-04-EC-publicacoesPorMembro.csv'
+file_original = 'C:/Users/11941578900/Documents/GitHub/UDESC-SCRAPPING/Graph/UDESC-Network/Engenharia_de_Software_Temporal/teste-04-sw-publicacoesPorMembro-2020-2024.csv'
 
 #conteúdo do arquivo original
 with open(file_original, 'r', encoding='utf-8') as file:
@@ -36,7 +36,7 @@ with open(file_original, 'r', encoding='utf-8') as file:
 
 processed_content = process_content(content)
 
-processed_file_path = 'EngenhariaCivilCurrículos.csv'
+processed_file_path = 'Engenharia_de_Software_Temporal_2020_2024.csv'
 
 with open(processed_file_path, 'w', encoding='utf-8') as file:
     for line in processed_content:

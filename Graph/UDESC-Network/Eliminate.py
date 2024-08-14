@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Caminho do arquivo CSV
-file_path = 'EngenhariaCivilCurrículos.csv'
-output_file_path = 'EngenhariaCivilCurrículosFinal.csv'
+file_path = 'Engenharia_de_Software_Temporal_2020_2024.csv'
+output_file_path = 'Engenharia_de_Software_Temporal/Engenharia_de_Software_Temporal_2020_2024_Final.csv'
 
 
 # Ler o arquivo CSV como texto
