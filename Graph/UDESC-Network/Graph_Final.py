@@ -131,7 +131,7 @@ def calcular_centralidade(G):
 # Função para calcular as métricas adicionais solicitadas
 def calcular_metricas_adicionais(G):
     num_arestas = G.number_of_edges()
-    num_nos_com_coautoria = sum(1 for _, degree in G.degree() if degree >= 1)
+    numero_de_nos = G.number_of_nodes()
 
     # Verifica se o grafo é conexo
     if nx.is_connected(G):
@@ -156,7 +156,7 @@ def calcular_metricas_adicionais(G):
 
     metricas = {
         'numero_de_arestas': num_arestas,
-        'numero_de_nos_com_coautoria': num_nos_com_coautoria,
+        'numero_de_nos': numero_de_nos,
         'diametro': diametro,
         'grau_medio': grau_medio,
         'densidade': densidade,
@@ -168,6 +168,7 @@ def calcular_metricas_adicionais(G):
     }
 
     return metricas
+
 
 # Função para exibir centralidades em ordem decrescente
 def exibir_centralidades_ordenadas(centralidade_dict, nome_centralidade):
@@ -244,8 +245,8 @@ def criar_arquivo_grafo(G, publicacoes):
 # Modificação na função principal para incluir a criação do arquivo grafo.txt
 def main():
     # Lê os arquivos CSV e TXT
-    df_publicacoes = ler_csv('CurriculosGeralFinal.csv')
-    citacoes = ler_citacoes('CitacoesGeral.txt')
+    df_publicacoes = ler_csv('C:/Users/11941578900/Documents/GitHub/UDESC-SCRAPPING/Graph/UDESC-Network/Ciências_Contábeis/CienciasContabeisCurrículosFinal.csv')
+    citacoes = ler_citacoes('C:/Users/11941578900/Documents/GitHub/UDESC-SCRAPPING/Graph/UDESC-Network/Ciências_Contábeis/CitacoesCC.txt')
 
     if df_publicacoes is None or df_publicacoes.empty or citacoes is None:
         print('Erro ao carregar os dados. Verifique os arquivos e tente novamente.')
