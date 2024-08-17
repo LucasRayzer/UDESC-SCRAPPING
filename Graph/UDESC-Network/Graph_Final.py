@@ -209,7 +209,6 @@ def desenhar_grafo(G, sizes, publicacoes):
 
     nx.draw_networkx_edges(G, pos, edgelist=edge_weights.keys(), edge_color=edge_colors_mapped, alpha=1)
 
-    # Ajuste aqui para garantir que os nós estão presentes no grafo
     labels = {node: abreviacoes.get(node, node) for node in G.nodes()}
     nx.draw_networkx_labels(G, pos, labels=labels, font_size='large', font_weight='normal')
 
@@ -242,7 +241,7 @@ def criar_arquivo_grafo(G, publicacoes):
         print(f'Erro ao criar o arquivo grafo.txt: {e}')
 
 
-# Modificação na função principal para incluir a criação do arquivo grafo.txt
+# Leitura e Execução
 def main():
     # Lê os arquivos CSV e TXT
     df_publicacoes = ler_csv('C:/Users/11941578900/Documents/GitHub/UDESC-SCRAPPING/Graph/UDESC-Network/Ciências_Contábeis/CienciasContabeisCurrículosFinal.csv')
